@@ -1,0 +1,3 @@
+print("hello world,  i  am abijith")
+hi i am abijith
+i am doing aws in banglore
